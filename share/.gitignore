@@ -1,0 +1,17 @@
+.classpath
+.project
+.settings/
+target/**
+build/**
+.apt_generated/**
+.settings/com.google.gdt.eclipse.core.prefs
+.DS_Store
+**/.idea/encodings.xml
+**/.idea/misc.xml
+**/.idea/modules.xml
+**/.idea/vcs.xml
+**/.idea/war.iml
+**/.idea/workspace.xml
+**/.idea/**
+*~
+*.launch
